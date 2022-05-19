@@ -1,3 +1,4 @@
+# 代码及运行效果
 ```C
 #include<iostream>
 #include<cstdio>
@@ -32,6 +33,9 @@ int main()
 }
 ```
 
+![运行结果](https://img-blog.csdnimg.cn/5f45d19ffc7645c192733220aca56031.jpeg)
+
+### 二、简介
 ## 1.定义状态：
 
 记数组中以第 i 个元素结尾的连续子数组的最大和为 dp[i] (0 ≤ i < numsSize);
