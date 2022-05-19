@@ -70,7 +70,7 @@ dp[0] = nums[0] 。
 | Test Report| 个人软件流程阶段 | 5| 5 |
 |Size Measurement| 计算工作量 | 5 | 3 |
 | Postmortem & Improvement Plan| 事后总结, 并提出改进 | 10| 15 |
-| Total 总计 |123 |157  |
+| Total |  总计 |123 |157  |
 
 
 
