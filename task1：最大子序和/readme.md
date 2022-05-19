@@ -35,7 +35,7 @@ int main()
 
 ![运行结果](https://img-blog.csdnimg.cn/2ef39d264e5a49bd888f277762c7ab08.jpeg)
 
-### 二、简介
+# 二、简介
 ## 1.定义状态：
 
 记数组中以第 i 个元素结尾的连续子数组的最大和为 dp[i] (0 ≤ i < numsSize);
