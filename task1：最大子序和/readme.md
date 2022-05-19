@@ -33,7 +33,7 @@ int main()
 }
 ```
 
-![运行结果](https://img-blog.csdnimg.cn/5f45d19ffc7645c192733220aca56031.jpeg)
+![运行结果](https://img-blog.csdnimg.cn/2ef39d264e5a49bd888f277762c7ab08.jpeg)
 
 ### 二、简介
 ## 1.定义状态：
